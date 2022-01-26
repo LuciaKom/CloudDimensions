@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Finance Case Manegement">cf6e36952f1101103739ae6df699b65c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_760863_finance_c_finance_case_management</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>fin_manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:05:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>836efe992f1101103739ae6df699b698</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_update_name>sys_app_module_836efe992f1101103739ae6df699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:21:09</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</application>
+        <file_path/>
+        <instance_id>ff1107d5db5a7740b847ac44d4961996</instance_id>
+        <instance_name>dev88702</instance_name>
+        <name>sys_app_module_836efe992f1101103739ae6df699b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Finance Case Manegement">cf6e36952f1101103739ae6df699b65c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_760863_finance_c_finance_case_management</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>fin_manager</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-26 10:05:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>836efe992f1101103739ae6df699b698</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package><sys_policy/><sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope><sys_update_name>sys_app_module_836efe992f1101103739ae6df699b698</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-26 10:21:09</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1560442134</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>be4e36192f1101103739ae6df699b65d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:21:09</sys_created_on>
+        <sys_id>8ae1839d2f1101103739ae6df699b632</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e95e7475d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:21:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>06e1839d8d110110ee7aa2bd78e8d832</update_guid>
+        <update_guid_history>06e1839d8d110110ee7aa2bd78e8d832:1560442134,076efe9989110110f8d320051aea9699:-2090112343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">d6c44f112f5101103739ae6df699b6a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:33:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>30aee5f979c34b77a34d23b477a2fca1</sys_id>
+        <sys_metadata>836efe992f1101103739ae6df699b698</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_760863_finance_c_finance_case_management</sys_name>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_scope_delete display_value="">64d70e163c2f402a8a460216ccb2a9e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_836efe992f1101103739ae6df699b698</sys_update_name>
+        <sys_update_version display_value="sys_app_module_836efe992f1101103739ae6df699b698">8ae1839d2f1101103739ae6df699b632</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:33:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

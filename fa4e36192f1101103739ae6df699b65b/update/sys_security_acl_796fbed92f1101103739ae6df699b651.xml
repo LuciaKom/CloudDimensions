@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_760863_finance_c_finance_case_management</description>
+        <name>x_760863_finance_c_finance_case_management</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:10:12</sys_created_on>
+        <sys_id>796fbed92f1101103739ae6df699b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_760863_finance_c_finance_case_management</sys_name>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_update_name>sys_security_acl_796fbed92f1101103739ae6df699b651</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:10:12</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

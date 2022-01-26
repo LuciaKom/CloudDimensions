@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Finance Case Manegement">cf6e36952f1101103739ae6df699b65c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_760863_finance_c_finance_case_management</name>
+        <order>6</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>fin_manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:05:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b6efe992f1101103739ae6df699b69f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_update_name>sys_app_module_8b6efe992f1101103739ae6df699b69f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:24:14</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name>All Finance Management Cases</view_name>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</application>
+        <file_path/>
+        <instance_id>ff1107d5db5a7740b847ac44d4961996</instance_id>
+        <instance_name>dev88702</instance_name>
+        <name>sys_app_module_8b6efe992f1101103739ae6df699b69f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Finance Case Manegement">cf6e36952f1101103739ae6df699b65c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_760863_finance_c_finance_case_management</name><order>6</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>fin_manager</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-26 10:05:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b6efe992f1101103739ae6df699b69f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package><sys_policy/><sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope><sys_update_name>sys_app_module_8b6efe992f1101103739ae6df699b69f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-26 10:24:14</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name>All Finance Management Cases</view_name><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-831870923</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>be4e36192f1101103739ae6df699b65d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:24:14</sys_created_on>
+        <sys_id>df92c79d2f1101103739ae6df699b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e95ea1b0c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:24:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5b92c79d2c11011050f8491556c499ef</update_guid>
+        <update_guid_history>5b92c79d2c11011050f8491556c499ef:-831870923,dcc1035d7c110110572e22b45ce34503:118521490,0f6efe9978110110c009b5092ec01da0:994966898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">e81547512f5101103739ae6df699b630</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:34:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>dc645ee97b89463ba72b067050b13949</sys_id>
+        <sys_metadata>8b6efe992f1101103739ae6df699b69f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_760863_finance_c_finance_case_management</sys_name>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_scope_delete display_value="">64d70e163c2f402a8a460216ccb2a9e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_8b6efe992f1101103739ae6df699b69f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8b6efe992f1101103739ae6df699b69f">df92c79d2f1101103739ae6df699b6ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:34:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

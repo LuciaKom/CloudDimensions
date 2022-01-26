@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_760863_finance_c.finance_case_management_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>finance_case_management_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:10:12</sys_created_on>
+        <sys_id>296ffad92f1101103739ae6df699b6bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_760863_finance_c.finance_case_management_user</sys_name>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_update_name>sys_user_role_296ffad92f1101103739ae6df699b6bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:10:12</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</application>
+        <file_path/>
+        <instance_id>ff1107d5db5a7740b847ac44d4961996</instance_id>
+        <instance_name>dev88702</instance_name>
+        <name>sys_user_role_296ffad92f1101103739ae6df699b6bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_760863_finance_c.finance_case_management_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>finance_case_management_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-26 10:10:12</sys_created_on><sys_id>296ffad92f1101103739ae6df699b6bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_760863_finance_c.finance_case_management_user</sys_name><sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package><sys_policy/><sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope><sys_update_name>sys_user_role_296ffad92f1101103739ae6df699b6bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-26 10:10:12</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1449866011</payload_hash>
+        <record_name>x_760863_finance_c.finance_case_management_user</record_name>
+        <reverted_from/>
+        <source>be4e36192f1101103739ae6df699b65d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:10:12</sys_created_on>
+        <sys_id>256ffad92f1101103739ae6df699b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e95dd402b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:10:12</sys_updated_on>
+        <type>Role</type>
+        <update_guid>6d6ffad91d1101104bce471275de5ec0</update_guid>
+        <update_guid_history>6d6ffad91d1101104bce471275de5ec0:-1449866011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_760863_finance_c.finance_case_management_user">20d5cf512f5101103739ae6df699b682</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 10:38:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>434d4877b5f34248aa3da4ce3927a421</sys_id>
+        <sys_metadata>296ffad92f1101103739ae6df699b6bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_760863_finance_c.finance_case_management_user</sys_name>
+        <sys_package display_value="Finance Case Manegement" source="x_760863_finance_c">fa4e36192f1101103739ae6df699b65b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Manegement">fa4e36192f1101103739ae6df699b65b</sys_scope>
+        <sys_scope_delete display_value="">64d70e163c2f402a8a460216ccb2a9e4</sys_scope_delete>
+        <sys_update_name>sys_user_role_296ffad92f1101103739ae6df699b6bc</sys_update_name>
+        <sys_update_version display_value="sys_user_role_296ffad92f1101103739ae6df699b6bc">256ffad92f1101103739ae6df699b6c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 10:38:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
